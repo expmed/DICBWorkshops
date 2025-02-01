@@ -1,0 +1,11 @@
+scratchwork
+scratchwork/*
+environment
+environment/*
+*_SOLUTIONS.ipynb
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+.DS_Store
+.DS_Store/*
+output_*
+synthea*

@@ -1,4 +1,4 @@
-name: /Users/troy/DICBWorkshops/environment
+name: dicbworkshops
 channels:
   - conda-forge
   - defaults

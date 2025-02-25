@@ -13,3 +13,4 @@ venv
 venv/*
 convert_data_to_parquet.py
 generate_patients.sh
+Dockerfile

@@ -13,4 +13,4 @@ Alternative Links to Run the Notebooks in Binder (for attendees who do not have 
 
 2. [EHR Deep Dive](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/master?filepath=EHRDeepDive_Diabetes.ipynb)
 
-3. [NLP-informed Feature Engineering](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/nlp-informed-feature-engineering?filepath=NLPInformedFeatureEngineering.ipynb)
+3. [NLP-informed Feature Engineering](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/nlp-informed-feature-engineering?filepath=NLPInformedFeatureEngineering_BINDER.ipynb)

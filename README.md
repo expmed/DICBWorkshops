@@ -1,6 +1,8 @@
 # DICBWorkshops
 
-Links to Notebooks in Google Colab:
+## 3 Options to Follow Along with the Hands on Modules
+
+### **Option 1.** Links to Notebooks in Google Colab **(preferred)**:
 
 1. [Pandas Primer](https://colab.research.google.com/github/btwooton/DICBWorkshops/blob/master/PandasAndNumpyPrimer.ipynb)
 
@@ -8,7 +10,9 @@ Links to Notebooks in Google Colab:
 
 3. [NLP-informed Feature Engineering](https://colab.research.google.com/github/btwooton/DICBWorkshops/blob/nlp-informed-feature-engineering/NLPInformedFeatureEngineering.ipynb)
 
-Alternative Links to Run the Notebooks in Binder (for attendees who do not have Google accounts):
+### **Option 2.** Alternative Links to Run the Notebooks in Binder **(for attendees who do not have Google accounts)**:
+**Note: mybinder.org offers significantly resource constrained environments to run interactive jupyter notebooks** \
+**so you might run into memory issues while running some or all of the modules, depending on the size of the loaded data**
 1. [Pandas Primer](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/master?filepath=PandasAndNumpyPrimer.ipynb)
 
 2. [EHR Deep Dive](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/master?filepath=EHRDeepDive_Diabetes.ipynb)
@@ -16,7 +20,7 @@ Alternative Links to Run the Notebooks in Binder (for attendees who do not have 
 3. [NLP-informed Feature Engineering](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/nlp-informed-feature-engineering?filepath=NLPInformedFeatureEngineering_BINDER.ipynb)
 
 
-### **Minimal Local Environment Instructions for Workshop Attendees who Want to Run Locally**  
+### **Option 3.** Minimal Local Environment Instructions **(for Workshop Attendees who Want to Run Locally)** 
 
 These instructions will help you set up Python, Jupyter, and the necessary packages for the hands-on exercises in this workshop.  
 

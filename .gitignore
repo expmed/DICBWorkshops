@@ -14,3 +14,5 @@ venv/*
 convert_data_to_parquet.py
 generate_patients.sh
 Dockerfile
+synth_data_venv
+synth_data_venv/*

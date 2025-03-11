@@ -9,8 +9,8 @@
 2. [EHR Deep Dive](https://colab.research.google.com/github/btwooton/DICBWorkshops/blob/master/EHRDeepDive_Diabetes.ipynb)
 
 ### *Option 2.* Alternative Links to Run the Notebooks in Binder *(backup for attendees who do not have Google accounts)*:
-**Note: mybinder.org offers significantly resource constrained environments to run interactive jupyter notebooks**  \
-**so you might run into memory issues while running some or all of the modules, depending on the size of the loaded data**
+**Note: mybinder.org offers significantly resource constrained environments to run interactive jupyter notebooks 
+so you might run into memory issues while running some or all of the modules, depending on the size of the loaded data**
 1. [Python Packages Primer](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/master?filepath=PythonEDAPackagesPrimer.ipynb)
 
 2. [EHR Deep Dive](https://mybinder.org/v2/gh/btwooton/DICBWorkshops/master?filepath=EHRDeepDive_Diabetes.ipynb)
